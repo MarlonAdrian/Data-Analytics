@@ -1,4 +1,5 @@
 "TEXTO TOMADO A PARTIR DEL LIBRO HARRY POTTER"
+"Marlon Adrián Túquerres Romero"
 
 guion = open ("Texto.txt", encoding='utf8')
 i=0
