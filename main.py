@@ -1,3 +1,5 @@
+"Marlon Adrián Tuquerres Romero"
+
 import numpy as np
 
 matriz1=[];
